@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @AirNicco8
 - 👀 I’m interested in Data Science, Machine Learning and Computer Science in general (everything can be interesting!). But more precisely I am into:
   - Natural Language Processing (NLP)
+     - Transformers and Attention
+     - NLG
   - Theory of Complexity applied to AI
-- 🌱 I’m currently studying Reinforcement Learning and consolidating the theory basics of ML.
+  - Optimization
+- 🌱 I’m currently studying MLOps and consolidating the theory basics of ML.
 - 📫 How to reach me: lornic98@gmail.com
 
 <!---
