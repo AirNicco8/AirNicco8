@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AirNicco8
-- 👀 I’m interested in Data Science, Machine Learning and Computer Science in general (everything can be interesting!). But more precisely I am into:
+- 👀 I’m interested in Deep Learning, Machine Learning and Computer Science in general (everything can be interesting!). But more precisely I am into:
   - Natural Language Processing (NLP)
      - Transformers and Attention
      - NLG
