@@ -5,7 +5,7 @@
      - NLG
   - Theory of Complexity applied to AI
   - Optimization
-- 🌱 I’m currently studying MLOps and consolidating the theory basics of ML.
+- 🌱 I’m currently studying Bayesian Optimization and consolidating the theory basics of ML.
 - 👓 Intern @ MAPS Group - Ontology matching, graph embedding, data extraction
 - 📫 How to reach me: lornic98@gmail.com
 
