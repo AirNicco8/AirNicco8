@@ -1,11 +1,9 @@
 - 👋 Hi, I’m @AirNicco8
 - 👀 I’m interested in Deep Learning, Machine Learning and Computer Science in general (everything can be interesting!). But more precisely I am into:
   - Natural Language Processing (NLP)
-     - Transformers and Attention
-     - NLG
   - Theory of Complexity applied to AI
   - Optimization
-- 🌱 I’m currently studying Bayesian Optimization and consolidating the theory basics of ML.
+- 🌱 I’m currently studying Constrained Bayesian Optimization and consolidating the theory basics of ML.
 - 👓 Intern @ MAPS Group - Ontology matching, graph embedding, data extraction
 - 📫 How to reach me: lornic98@gmail.com
 
