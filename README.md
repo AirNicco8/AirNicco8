@@ -2,8 +2,8 @@
 - 👀 I’m interested in Deep Learning, Machine Learning and Computer Science in general (everything can be interesting!). But more precisely, I am into:
   - Natural Language Processing (NLP)
   - Optimization
-- 🌱 I’m currently studying Constrained Bayesian Optimization and consolidating the theory basics of ML.
-- 👓 Intern @ MAPS Group - Ontology matching, graph embedding, data extraction
+- 🌱 I’m currently working on Optimization and Ontological interoperability in the Energy field.
+- 👓 R&D Data Scientist @ MAPS Group
 - 📫 How to reach me: lornic98@gmail.com
 
 <!---
